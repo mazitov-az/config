@@ -1,0 +1,1 @@
+cd /tmp/; ls -UA -1 . | head -n 100000 | xargs rm -rf
